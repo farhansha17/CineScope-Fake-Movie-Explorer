@@ -64,5 +64,6 @@ cine-scope/
 -   ui-avatars.com (for poster images)
 -   Wikipedia Movie Dataset
 
-##✨ Author
+---
+## ✨ Author
 Made with ❤️ by [Farhan Shahul](https://github.com/farhansha17)
